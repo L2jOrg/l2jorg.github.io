@@ -9,3 +9,5 @@ kramdown:
   syntax_highlighter: rouge
 
 theme: jekyll-theme-cayman
+title: L2jOrg
+description: A open source l2 emulator project
