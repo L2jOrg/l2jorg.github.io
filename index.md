@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "L2jOrg"
+title: "L2jOrg"
 ---
+
 <ul>
   {% for post in site.posts %}
     <li>
