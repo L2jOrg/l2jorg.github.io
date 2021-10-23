@@ -2,10 +2,10 @@
 title: "L2jOrg"
 ---
 
-## Getting Started
+# Getting Started
 
 
-#### Requirements
+## Requirements
 
 * Java 17
 * MySql 8
@@ -13,9 +13,9 @@ title: "L2jOrg"
 
 ## Build From source
 
-#### Get the Source
+### Get the Source
 
-###### Cloning the repository
+#### Cloning the repository
 
 To clone the repository you need to have git installed in your system
 
@@ -24,9 +24,9 @@ git clone --recurse-submodules https://github.com/L2jOrg/L2jOrg
 
 ```
 
-###### Downloading the Source
+#### Downloading the Source
 
-#### Build the project
+### Build the project
 
 Inside of project folder run the command, to build and assemble the project. It will create a .zip file inside of folder distribution.
 
@@ -34,11 +34,11 @@ Inside of project folder run the command, to build and assemble the project. It 
 ./gradlew distZip
 ```
 
-#### Execution
+### Execution
 
 Unzip the file created in the Build
 
-###### Database
+#### Database
 
 **Make sure the mysql client is available in the path**
 
@@ -52,7 +52,7 @@ To create the gameserver database structure:
 * Configure the file gameserver/sql/mysql_settings.conf with the database info
 * Execute the script gameserver/sql/install.sh
 
-###### Running the Server
+#### Running the Server
 
 Configure the Authserver and Gameserver database configuration file:
 
