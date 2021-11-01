@@ -88,6 +88,6 @@ Execute the Server
 
 Donate here: 
 [Donate](https://.paypal.me/l2jorg)
-* 50 Euros one time,  then 10 euros by month
+* 50 Euros one time,  then 10 euros by month (except for contributors, which it will not be mandatory)
 * Contact us on Discord for the premium access
 * [Discord](https://discord.gg/RbPgE5V)
