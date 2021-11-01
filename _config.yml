@@ -11,3 +11,8 @@ kramdown:
 theme: jekyll-theme-cayman
 title: L2jOrg
 description: A open source l2 emulator project
+links:
+  section_1: # you can use any name
+    - title: Intellij # show on menu
+      url: / #intellij
+      key_trigger: 1 # link shortcut and show on the left of the title
