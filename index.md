@@ -72,6 +72,10 @@ Execute the Server
 * Commit your changes,
 * Use Pull request https://github.com/L2jOrg/L2jOrg/pulls
 
+## Using Intellij
+
+[link to tutorial](intellij.md)
+
 
 ## Premium Access
 
