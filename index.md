@@ -82,6 +82,7 @@ Execute the Server
 * Get support on new features
 * Help the community
 
-Donate here: https://www.paypal.me/l2jorg
-50 Euros one time,  then 10 euros by month
-Contact us on Discord for the premium access
+Donate here: 
+[Donate](https://.paypal.me/l2jorg)
+* 50 Euros one time,  then 10 euros by month
+* Contact us on Discord for the premium access
