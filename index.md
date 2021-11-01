@@ -13,7 +13,7 @@ title: "L2jOrg"
 
 ## Build From source
 
-### Get the Source
+### Get the Source (272 Classic protocol)
 
 #### Cloning the repository
 
@@ -65,3 +65,23 @@ Execute the Server
 * Execute the script authserver/authserver.sh
 * Execute the script gamserver/gameserver.sh
 
+#### Contributing to source
+
+* Get your access to GitHub
+* Create a new branch
+* Commit your changes,
+* Use Pull request https://github.com/L2jOrg/L2jOrg/pulls
+
+
+## Premium Access
+
+**Get your premium access by helping the team with donation or contribution**
+
+* Get access to branch protocol 286 / 306 / 311 / 338 (ADEN - CLASSIC - ESSENCE)
+* Get support on installing server
+* Get support on new features
+* Help the community
+
+Donate here: https://www.paypal.me/l2jorg
+50 Euros one time,  then 10 euros by month
+Contact us on Discord for the premium access
